@@ -1,2 +1,2 @@
 # GoBackNProtocol
-Implementing Go Back N Protocol using Java Socket Programming
+Implementing Go Back N Automatic Repeat Request Protocol using Java Socket Programming
